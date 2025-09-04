@@ -1,0 +1,2213 @@
+{
+  "data": {
+    "mainSearch": {
+      "edges": [
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0120338",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1997,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 12,
+                "day": 19,
+                "year": 1997,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2647458304",
+                "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+                "height": 3000,
+                "width": 2015,
+                "createdOn": {
+                  "date": "2016-10-02T16:03:19Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0000138",
+                        "nameText": {
+                          "text": "Leonardo DiCaprio"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm487490304",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_.jpg",
+                          "height": 400,
+                          "width": 297,
+                          "createdOn": {
+                            "date": "2010-07-13T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0000701",
+                        "nameText": {
+                          "text": "Kate Winslet"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm537960448",
+                          "url": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_.jpg",
+                          "height": 2048,
+                          "width": 1334,
+                          "createdOn": {
+                            "date": "2013-03-23T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0000708",
+                        "nameText": {
+                          "text": "Billy Zane"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3013840640",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTI5NzA2NTE0NF5BMl5BanBnXkFtZTcwNzAxMTUxMw@@._V1_.jpg",
+                          "height": 400,
+                          "width": 309,
+                          "createdOn": {
+                            "date": "2010-01-26T00:00:00Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0046435",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1953,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 7,
+                "day": 13,
+                "year": 1953,
+                "country": {
+                  "id": "GB"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1659620864",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTU3NTUyMTc3Nl5BMl5BanBnXkFtZTgwOTA2MDE3MTE@._V1_.jpg",
+                "height": 500,
+                "width": 335,
+                "createdOn": {
+                  "date": "2014-04-30T22:27:44Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0916067",
+                        "nameText": {
+                          "text": "Clifton Webb"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2017322496",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZDkwZTExY2UtOGVjOS00MjlmLTg3OWUtZDMyYWZlYWNhMDU5XkEyXkFqcGc@._V1_.jpg",
+                          "height": 2141,
+                          "width": 1819,
+                          "createdOn": {
+                            "date": "2016-01-08T16:29:41Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0001766",
+                        "nameText": {
+                          "text": "Barbara Stanwyck"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1862221313",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMmQwNmYwMDQtNzkzYy00MDVmLWExNGEtNGU1MTkxMjgyZDk3XkEyXkFqcGc@._V1_.jpg",
+                          "height": 3713,
+                          "width": 3040,
+                          "createdOn": {
+                            "date": "2022-12-17T00:09:45Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0001822",
+                        "nameText": {
+                          "text": "Robert Wagner"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm819900929",
+                          "url": "https://m.media-amazon.com/images/M/MV5BOThjNTk4NzYtNWRhMy00ZGZmLWFjYTktMzA5OTgzNDM2M2I0XkEyXkFqcGc@._V1_.jpg",
+                          "height": 3478,
+                          "width": 2319,
+                          "createdOn": {
+                            "date": "2020-04-14T23:28:19Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0036443",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1943,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 2,
+                "day": 7,
+                "year": 1950,
+                "country": {
+                  "id": "XWG"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm4149301760",
+                "url": "https://m.media-amazon.com/images/M/MV5BZDY5NDljMmItMDgwNy00YmMzLThjMzYtNTIwZDVhZTk2NDcwXkEyXkFqcGc@._V1_.jpg",
+                "height": 551,
+                "width": 434,
+                "createdOn": {
+                  "date": "2018-01-06T13:27:35Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0773525",
+                        "nameText": {
+                          "text": "Sybille Schmitz"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm125999361",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZjI2ODNmMGEtNTY5YS00OTY3LWI2NDktMzgyYjFmZDg1YTkxXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1150,
+                          "width": 861,
+                          "createdOn": {
+                            "date": "2019-06-14T23:03:44Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0630821",
+                        "nameText": {
+                          "text": "Hans Nielsen"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0373853",
+                        "nameText": {
+                          "text": "Kirsten Heiberg"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm600115456",
+                          "url": "https://m.media-amazon.com/images/M/MV5BYjMwYjZjZGYtYTczYi00NmM0LWFmMWMtNjgxZmIwMTZkOGIxXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1150,
+                          "width": 803,
+                          "createdOn": {
+                            "date": "2016-08-17T13:41:55Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0081400",
+              "titleText": {
+                "text": "Raise the Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Raise the Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1980,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 8,
+                "day": 1,
+                "year": 1980,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2820070913",
+                "url": "https://m.media-amazon.com/images/M/MV5BNGQ1YTExNDEtNmJhMS00M2Y4LWExNGEtNzFlZTQzYTExZTRmXkEyXkFqcGc@._V1_.jpg",
+                "height": 2681,
+                "width": 1688,
+                "createdOn": {
+                  "date": "2020-11-19T03:02:48Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0001673",
+                        "nameText": {
+                          "text": "Jason Robards"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm643153666",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZGZiZmIyNTQtNjAyMS00OGFlLTg1ODMtOTQ1NWE3ZGFlZjI3XkEyXkFqcGc@._V1_.jpg",
+                          "height": 5544,
+                          "width": 5474,
+                          "createdOn": {
+                            "date": "2025-07-09T04:00:22Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0430151",
+                        "nameText": {
+                          "text": "Richard Jordan"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1598536192",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTA4NTM3NTgzNTBeQTJeQWpwZ15BbWU3MDY1NzgxNTQ@._V1_.jpg",
+                          "height": 688,
+                          "width": 1023,
+                          "createdOn": {
+                            "date": "2011-02-21T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0782978",
+                        "nameText": {
+                          "text": "David Selby"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2760874496",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTMwMzA4MDM1OF5BMl5BanBnXkFtZTYwODU2NTAz._V1_.jpg",
+                          "height": 491,
+                          "width": 326,
+                          "createdOn": {
+                            "date": "2004-10-28T18:27:47Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt18394428",
+              "titleText": {
+                "text": "Titanic 666",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic 666",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2022,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 4,
+                "day": 15,
+                "year": 2022,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [
+                  {
+                    "id": "internet",
+                    "text": "internet"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1877635329",
+                "url": "https://m.media-amazon.com/images/M/MV5BNzcxY2RjOWUtZmE2Yy00YTBlLWE4N2UtOTg5NjdiNTFjNzk1XkEyXkFqcGc@._V1_.jpg",
+                "height": 2560,
+                "width": 1920,
+                "createdOn": {
+                  "date": "2024-06-12T17:15:16Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm1077920",
+                        "nameText": {
+                          "text": "Keesha Sharp"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1022119936",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNDA0Y2EzNjctOTI0Yi00MGI2LThkMmMtOTE4NzJiOGYwZTZlXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1024,
+                          "width": 680,
+                          "createdOn": {
+                            "date": "2018-01-18T02:58:58Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0051397",
+                        "nameText": {
+                          "text": "Jamie Bamber"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2912375296",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZGQxZDQ5Y2QtNTUwOS00NmIwLWI0NDItZTBkMmU1MDI1MzZkXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1300,
+                          "width": 975,
+                          "createdOn": {
+                            "date": "2018-01-04T10:52:20Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm1935905",
+                        "nameText": {
+                          "text": "Lydia Hearst"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3231302145",
+                          "url": "https://m.media-amazon.com/images/M/MV5BYTc3YTU2YTQtZGIwMS00OWVmLTg1ZjgtMWMxOWUyYTYzZmJjXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1679,
+                          "width": 1125,
+                          "createdOn": {
+                            "date": "2021-04-16T00:30:28Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0129923",
+              "titleText": {
+                "text": "The Chambermaid on the Titanic",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "La femme de chambre du Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1997,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 8,
+                "day": 14,
+                "year": 1998,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1777854208",
+                "url": "https://m.media-amazon.com/images/M/MV5BZjEyNTk3MWItNTY4Yi00N2ZlLWJhZmMtOGNjZmNhYmYyNzc5XkEyXkFqcGc@._V1_.jpg",
+                "height": 850,
+                "width": 600,
+                "createdOn": {
+                  "date": "2016-01-12T16:22:52Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0553648",
+                        "nameText": {
+                          "text": "Olivier Martinez"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2765194240",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTU5MzAwODgxNV5BMl5BanBnXkFtZTcwNjQ3NDUxNA@@._V1_.jpg",
+                          "height": 400,
+                          "width": 288,
+                          "createdOn": {
+                            "date": "2010-11-30T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0001960",
+                        "nameText": {
+                          "text": "Romane Bohringer"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm152672768",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMjE0MjA4NzQwM15BMl5BanBnXkFtZTYwMTg0ODgz._V1_.jpg",
+                          "height": 400,
+                          "width": 267,
+                          "createdOn": {
+                            "date": "2000-05-15T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0845209",
+                        "nameText": {
+                          "text": "Aitana Sánchez-Gijón"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm241875456",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTMyOTg2MDIwNl5BMl5BanBnXkFtZTcwNjU2Nzg0NA@@._V1_.jpg",
+                          "height": 2048,
+                          "width": 1315,
+                          "createdOn": {
+                            "date": "2011-02-13T00:00:00Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt27713920",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2023,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 2,
+                "day": 7,
+                "year": 2023,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [
+                  {
+                    "id": "internet",
+                    "text": "internet"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm388246785",
+                "url": "https://m.media-amazon.com/images/M/MV5BZTAyMTNhZGItMzQ5Ny00OGQxLThhNDMtYzUxOGZhYTVkYTIwXkEyXkFqcGc@._V1_.jpg",
+                "height": 1600,
+                "width": 1200,
+                "createdOn": {
+                  "date": "2023-05-12T03:15:57Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm14840553",
+                        "nameText": {
+                          "text": "James B."
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt2495766",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2012,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 10,
+                "day": 2,
+                "year": 2012,
+                "country": {
+                  "id": "GB"
+                },
+                "attributes": [
+                  {
+                    "id": "internet",
+                    "text": "internet"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2954896641",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjVlNTYxYTktMWQ3OS00YTdkLWIwZTYtMTE5NGFlMDFmYmUxXkEyXkFqcGc@._V1_.jpg",
+                "height": 1080,
+                "width": 1346,
+                "createdOn": {
+                  "date": "2023-07-15T06:39:16Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm4430776",
+                        "nameText": {
+                          "text": "Pete Meads"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm2686450433",
+                          "url": "https://m.media-amazon.com/images/M/MV5BODIyZTg3ZGUtZTlhNi00YTAxLWE2MGItZTVlNWEzMmU2NjIxXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1068,
+                          "width": 823,
+                          "createdOn": {
+                            "date": "2021-07-02T21:43:23Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm5410036",
+                        "nameText": {
+                          "text": "Kevin Lincoln"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm4566494",
+                        "nameText": {
+                          "text": "John Duggan"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt28656527",
+              "titleText": {
+                "text": "Titanic: The Musical",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic: The Musical",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2023,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 11,
+                "day": 4,
+                "year": 2023,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2326353665",
+                "url": "https://m.media-amazon.com/images/M/MV5BNWU2NWIxOTktNTQ0Ny00ODhiLWJlM2QtMTdjMmJiNzZiODliXkEyXkFqcGc@._V1_.jpg",
+                "height": 1500,
+                "width": 1000,
+                "createdOn": {
+                  "date": "2023-11-03T19:58:37Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm3716189",
+                        "nameText": {
+                          "text": "Martin Allanson"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm636634369",
+                          "url": "https://m.media-amazon.com/images/M/MV5BOWU5N2U1NzYtZWM2MC00MmE2LTk1YjYtNzA3YmY2YzliYWJjXkEyXkFqcGc@._V1_.jpg",
+                          "height": 6000,
+                          "width": 4000,
+                          "createdOn": {
+                            "date": "2024-03-18T18:29:07Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0043137",
+                        "nameText": {
+                          "text": "Valda Aviks"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0081061",
+                        "nameText": {
+                          "text": "Graham Bickley"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0330994",
+              "titleText": {
+                "text": "Titanic: The Legend Goes On...",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "Titanic - La leggenda continua",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2000,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 9,
+                "day": 15,
+                "year": 2000,
+                "country": {
+                  "id": "IT"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm871535872",
+                "url": "https://m.media-amazon.com/images/M/MV5BMTg5MjcxODAwMV5BMl5BanBnXkFtZTcwMTk4OTMwMg@@._V1_.jpg",
+                "height": 1097,
+                "width": 780,
+                "createdOn": {
+                  "date": "2008-11-15T02:17:15Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm1023104",
+                        "nameText": {
+                          "text": "Lisa Russo"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm1002055",
+                        "nameText": {
+                          "text": "Mark Thompson-Ashworth"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0558637",
+                        "nameText": {
+                          "text": "Gisella Mathews"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt4247440",
+              "titleText": {
+                "text": "Predator World",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "Aliens vs. Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2017,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 9,
+                "day": 11,
+                "year": 2018,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2103003904",
+                "url": "https://m.media-amazon.com/images/M/MV5BNTMzZjg5ZWMtZDg5My00OWMzLTk3OTMtOGRmOGI2ZmQ5YTQwXkEyXkFqcGc@._V1_.jpg",
+                "height": 2231,
+                "width": 1566,
+                "createdOn": {
+                  "date": "2018-03-22T05:56:29Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm2383520",
+                        "nameText": {
+                          "text": "Tasha Tacosa"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm4055170305",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZGQ1OWI2MDYtMDA4ZS00ZmQzLThmNjEtZGYxODU5MmIxNzQ2XkEyXkFqcGc@._V1_.jpg",
+                          "height": 1459,
+                          "width": 828,
+                          "createdOn": {
+                            "date": "2021-08-18T03:52:33Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0722290",
+                        "nameText": {
+                          "text": "Robert Rhine"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3751235073",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMmI1MmM3MGEtN2VkZC00ODRjLWE0MjctY2I1Y2UxNDAxNjA5XkEyXkFqcGc@._V1_.jpg",
+                          "height": 800,
+                          "width": 813,
+                          "createdOn": {
+                            "date": "2024-01-03T23:00:19Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm4996898",
+                        "nameText": {
+                          "text": "Brenton Jones"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt27758742",
+              "titleText": {
+                "text": "Titanic 2000",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic 2000",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1999,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 1,
+                "day": 1,
+                "year": 1999,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [
+                  {
+                    "id": "unknown",
+                    "text": "unknown"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm4076217089",
+                "url": "https://m.media-amazon.com/images/M/MV5BZTRhOGYzN2MtMTlmYi00ODIyLWI4YTEtNzljNzdjMGM4YjE5XkEyXkFqcGc@._V1_.jpg",
+                "height": 2100,
+                "width": 1400,
+                "createdOn": {
+                  "date": "2023-05-22T15:20:49Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0470268",
+                        "nameText": {
+                          "text": "Tina Krause"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3569390336",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTM4NTIzOTU0OF5BMl5BanBnXkFtZTcwMDg1MTU0MQ@@._V1_.jpg",
+                          "height": 300,
+                          "width": 450,
+                          "createdOn": {
+                            "date": "2010-11-03T11:53:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0663017",
+                        "nameText": {
+                          "text": "Tammy Parks"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt1623780",
+              "titleText": {
+                "text": "The Legend of the Titanic",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "La leggenda del Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1999,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 4,
+                "day": 17,
+                "year": 1999,
+                "country": {
+                  "id": "IT"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm140825856",
+                "url": "https://m.media-amazon.com/images/M/MV5BMjMxNDU5MTk1MV5BMl5BanBnXkFtZTgwMDk5NDUyMTE@._V1_.jpg",
+                "height": 500,
+                "width": 333,
+                "createdOn": {
+                  "date": "2014-02-23T10:28:39Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0810987",
+                        "nameText": {
+                          "text": "Gregory Snegoff"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3650181120",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZTc2MWUwMjMtZjM5Ni00NTE2LWExM2MtZGZmNDg4Y2IyM2Y0XkEyXkFqcGc@._V1_.jpg",
+                          "height": 720,
+                          "width": 584,
+                          "createdOn": {
+                            "date": "2017-11-03T20:44:48Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0661050",
+                        "nameText": {
+                          "text": "Francis Pardeilhan"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm432445952",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NDQ4ODMxOV5BMl5BanBnXkFtZTYwNjg3NDcy._V1_.jpg",
+                          "height": 605,
+                          "width": 450,
+                          "createdOn": {
+                            "date": "2004-08-20T11:33:04Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0018485",
+                        "nameText": {
+                          "text": "Jane Alexander"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt8852130",
+              "titleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2018,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 12,
+                "day": 21,
+                "year": 2018,
+                "country": {
+                  "id": "IN"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm1000278529",
+                "url": "https://m.media-amazon.com/images/M/MV5BNmRhNjdiYWQtNjAyNC00OTg4LWE1ZTAtN2QzZGQ3NzAyNzQ2XkEyXkFqcGc@._V1_.jpg",
+                "height": 1401,
+                "width": 1118,
+                "createdOn": {
+                  "date": "2022-07-09T18:45:46Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm5568493",
+                        "nameText": {
+                          "text": "Raj Singh Jhinjar"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm10047651",
+                        "nameText": {
+                          "text": "Kamal Khangura"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm5679766",
+                        "nameText": {
+                          "text": "Gurpreet Bhangu"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3381180417",
+                          "url": "https://m.media-amazon.com/images/M/MV5BNjJkZGFjZWMtMTRiZi00NTk5LWIxNTYtYjhhNzY4ODA1OGVmXkEyXkFqcGc@._V1_.jpg",
+                          "height": 960,
+                          "width": 720,
+                          "createdOn": {
+                            "date": "2020-02-28T04:59:01Z"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt36161271",
+              "titleText": {
+                "text": "Titanic: The Final Voyage",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic: The Final Voyage",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2025,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 3,
+                "day": 14,
+                "year": 2025,
+                "country": {
+                  "id": "US"
+                },
+                "attributes": [
+                  {
+                    "id": "internet",
+                    "text": "internet"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm4028270850",
+                "url": "https://m.media-amazon.com/images/M/MV5BOTcyZjdkZTMtZDVkNS00MDRmLTk1MWItZGU3MzU3ZjE5MmNmXkEyXkFqcGc@._V1_.jpg",
+                "height": 3000,
+                "width": 2000,
+                "createdOn": {
+                  "date": "2025-03-14T15:06:17Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm5352911",
+                        "nameText": {
+                          "text": "Guy Walters"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm274042881",
+                          "url": "https://m.media-amazon.com/images/M/MV5BZWJlZTY3NjMtYWI1MC00ZmE1LWJmZmEtMTU1MjE0Y2FiYzdmXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1121,
+                          "width": 825,
+                          "createdOn": {
+                            "date": "2019-08-16T04:25:25Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm12207133",
+                        "nameText": {
+                          "text": "Gareth Russell"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1212141569",
+                          "url": "https://m.media-amazon.com/images/M/MV5BY2FiYjNkNmMtMDgyMS00ZmY3LThjMWItZThiYzg3MWZlNmZlXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1328,
+                          "width": 1019,
+                          "createdOn": {
+                            "date": "2021-01-05T21:34:24Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm17115531",
+                        "nameText": {
+                          "text": "Alex Murray"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0127319",
+              "titleText": {
+                "text": "Titanic Town",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic Town",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1998,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 2,
+                "day": 26,
+                "year": 1999,
+                "country": {
+                  "id": "GB"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2669553408",
+                "url": "https://m.media-amazon.com/images/M/MV5BYjU4ZDg3YmQtODk2Ni00ZDU3LTg4YTQtODQ0MmE3ZDlmNmQ5XkEyXkFqcGc@._V1_.jpg",
+                "height": 850,
+                "width": 600,
+                "createdOn": {
+                  "date": "2017-09-29T19:55:40Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0910278",
+                        "nameText": {
+                          "text": "Julie Walters"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm1725540352",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMTM3NDA2NjE0M15BMl5BanBnXkFtZTcwMjk2ODIyOA@@._V1_.jpg",
+                          "height": 2048,
+                          "width": 1402,
+                          "createdOn": {
+                            "date": "2011-07-07T00:00:00Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0001354",
+                        "nameText": {
+                          "text": "Ciarán Hinds"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3431274753",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMmZhNzZkMTQtYWQ2YS00NDg2LTlhMWEtODA2ZDMxY2IyYWU3XkEyXkFqcGc@._V1_.jpg",
+                          "height": 4837,
+                          "width": 3225,
+                          "createdOn": {
+                            "date": "2022-03-27T22:55:36Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0642268",
+                        "nameText": {
+                          "text": "Nuala O'Neill"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt15437998",
+              "titleText": {
+                "text": "Titanic Ocean",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic Ocean",
+                "isOriginalTitle": true
+              },
+              "releaseYear": null,
+              "releaseDate": null,
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm2992520193",
+                "url": "https://m.media-amazon.com/images/M/MV5BMzhhNDU1NzAtNWNmYy00N2JlLWEwM2EtMmE0MmI2ZGM5ZDczXkEyXkFqcGc@._V1_.jpg",
+                "height": 561,
+                "width": 999,
+                "createdOn": {
+                  "date": "2023-01-08T20:26:45Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": []
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt1719665",
+              "titleText": {
+                "text": "In Search of the Titanic",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "Tentacolino",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2004,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": null,
+                "day": null,
+                "year": 2004,
+                "country": {
+                  "id": "IT"
+                },
+                "attributes": [],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3303929601",
+                "url": "https://m.media-amazon.com/images/M/MV5BM2NhZTE1ZmItZjQwYi00ZDZmLTg5ZWMtODcxOWZiYjQ0ZjJlXkEyXkFqcGc@._V1_.jpg",
+                "height": 561,
+                "width": 400,
+                "createdOn": {
+                  "date": "2021-10-05T02:42:39Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0018485",
+                        "nameText": {
+                          "text": "Jane Alexander"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0019681",
+                        "nameText": {
+                          "text": "Manfredi Aliquo"
+                        },
+                        "primaryImage": {
+                          "__typename": "Image",
+                          "id": "rm3292692481",
+                          "url": "https://m.media-amazon.com/images/M/MV5BMDcwOGZlODAtOGM2MC00NmZhLTk5MTQtZWNkNWIyYTE3ZjcwXkEyXkFqcGc@._V1_.jpg",
+                          "height": 1024,
+                          "width": 768,
+                          "createdOn": {
+                            "date": "2019-12-26T20:43:26Z"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0080656",
+                        "nameText": {
+                          "text": "Rodolfo Bianchi"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt0141904",
+              "titleText": {
+                "text": "Titanic Waltz",
+                "isOriginalTitle": false
+              },
+              "originalTitleText": {
+                "text": "Titanic vals",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 1965,
+                "endYear": null
+              },
+              "releaseDate": {
+                "__typename": "ReleaseDate",
+                "month": 1,
+                "day": 25,
+                "year": 1965,
+                "country": {
+                  "id": "RO"
+                },
+                "attributes": [
+                  {
+                    "id": "TV premiere",
+                    "text": "TV premiere"
+                  }
+                ],
+                "displayableProperty": {
+                  "qualifiersInMarkdownList": null
+                }
+              },
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": {
+                "__typename": "Image",
+                "id": "rm3143165184",
+                "url": "https://m.media-amazon.com/images/M/MV5BYWY3NjgwY2EtZTY1MS00MDc4LTg5M2YtOTc5ZTViMmNkZTQxXkEyXkFqcGc@._V1_.jpg",
+                "height": 960,
+                "width": 700,
+                "createdOn": {
+                  "date": "2016-02-09T11:36:41Z"
+                }
+              },
+              "episodes": null,
+              "series": null,
+              "principalCredits": [
+                {
+                  "credits": [
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0890539",
+                        "nameText": {
+                          "text": "Grigore Vasiliu-Birlic"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0298081",
+                        "nameText": {
+                          "text": "Silvia Fulda"
+                        },
+                        "primaryImage": null
+                      }
+                    },
+                    {
+                      "name": {
+                        "__typename": "Name",
+                        "id": "nm0315645",
+                        "nameText": {
+                          "text": "Kity Gheorghiu-Musatescu"
+                        },
+                        "primaryImage": null
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "entity": {
+              "__typename": "Title",
+              "id": "tt37194964",
+              "titleText": {
+                "text": "Titanic Death of a Dream Part 2",
+                "isOriginalTitle": true
+              },
+              "originalTitleText": {
+                "text": "Titanic Death of a Dream Part 2",
+                "isOriginalTitle": true
+              },
+              "releaseYear": {
+                "__typename": "YearRange",
+                "year": 2025,
+                "endYear": null
+              },
+              "releaseDate": null,
+              "titleType": {
+                "__typename": "TitleType",
+                "id": "movie",
+                "text": "Movie",
+                "categories": [
+                  {
+                    "id": "movie",
+                    "text": "Movie",
+                    "value": "movie"
+                  }
+                ],
+                "canHaveEpisodes": false,
+                "isEpisode": false,
+                "isSeries": false,
+                "displayableProperty": {
+                  "value": {
+                    "plainText": ""
+                  }
+                }
+              },
+              "primaryImage": null,
+              "episodes": null,
+              "series": null,
+              "principalCredits": []
+            }
+          }
+        }
+      ]
+    }
+  },
+  "status": true,
+  "message": "Successful"
+}
