@@ -34,7 +34,7 @@ const Cinema: React.FC<CinemaProps> = ({ id, type, title, onBack }) => {
 
       {type === "movie" ? (
         <iframe
-          src={src}
+          src={`${movieBase}${id}`}
           className="w-full aspect-video rounded-lg border border-neutral-800"
           allowFullScreen
         />
@@ -59,7 +59,7 @@ const Cinema: React.FC<CinemaProps> = ({ id, type, title, onBack }) => {
             />
           </div>
           <iframe
-            src={src}
+            src={`${tvBase}${id}/${season}/${episode}`}
             className="w-full aspect-video rounded-lg border border-neutral-800"
             allowFullScreen
           />

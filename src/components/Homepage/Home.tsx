@@ -27,25 +27,15 @@ const Home: React.FC = () => {
     try {
       const response = await searchMovies(q);
 
-      // Navigate to data.mainSearch.edges
-      const edges = response?.data?.mainSearch?.edges ?? [];
-
-      const movies: Movie[] = edges.map((edge: any) => {
-        const entity = edge?.node?.entity;
-        return {
-          id: entity?.id,
-          title: entity?.titleText?.text ?? "Untitled",
-          year: entity?.releaseYear?.year,
-          imageUrl: entity?.primaryImage?.url,
-          cast:
-            entity?.principalCredits?.[0]?.credits
-              ?.map((c: any) => c?.name?.nameText?.text)
-              .filter(
-                (name: any): name is string => typeof name === "string"
-              ) ?? [],
-          type: entity?.titleType?.id, // "movie" or "tv"/"series"
-        };
-      });
+      // New API: response.d is the array of results
+      const movies: Movie[] = response.d.map((item) => ({
+        id: item.id,
+        title: item.l ?? "Untitled",
+        year: item.y,
+        imageUrl: item.i?.imageUrl, // adjust if image object shape differs
+        cast: item.s?.split(",").map((s: string) => s.trim()) ?? [],
+        type: item.qid, // "movie", "tvSeries", etc.
+      }));
 
       setResults(movies);
     } catch (err: any) {
